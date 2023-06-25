@@ -44,7 +44,8 @@
   "vim.leader": "<space>",
   "vim.handleKeys": {
     "<C-a>": false,
-    "<C-f>": false
+    "<C-f>": false,
+    "<C-b>": false // for using shortcut to hide in ubuntu and windows
   },
   
 "vim.visualModeKeyBindingsNonRecursive": [
